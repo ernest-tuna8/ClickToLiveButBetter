@@ -14,6 +14,7 @@
 		A09A27DF256DA48D007E1080 /* bomb.wav in Resources */ = {isa = PBXBuildFile; fileRef = A09A27DE256DA48C007E1080 /* bomb.wav */; };
 		A09A27E1256DA497007E1080 /* doorbell.wav in Resources */ = {isa = PBXBuildFile; fileRef = A09A27E0256DA497007E1080 /* doorbell.wav */; };
 		A09A27E3256DA49E007E1080 /* applause.wav in Resources */ = {isa = PBXBuildFile; fileRef = A09A27E2256DA49D007E1080 /* applause.wav */; };
+		A09A27E5256DA79F007E1080 /* trumpet.wav in Resources */ = {isa = PBXBuildFile; fileRef = A09A27E4256DA79F007E1080 /* trumpet.wav */; };
 		A0FE9B3B256C1C6D0062D59B /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A0FE9B3A256C1C6D0062D59B /* AppDelegate.swift */; };
 		A0FE9B3D256C1C6D0062D59B /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A0FE9B3C256C1C6D0062D59B /* SceneDelegate.swift */; };
 		A0FE9B3F256C1C6D0062D59B /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A0FE9B3E256C1C6D0062D59B /* ViewController.swift */; };
@@ -52,6 +53,7 @@
 		A09A27DE256DA48C007E1080 /* bomb.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = bomb.wav; sourceTree = "<group>"; };
 		A09A27E0256DA497007E1080 /* doorbell.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = doorbell.wav; sourceTree = "<group>"; };
 		A09A27E2256DA49D007E1080 /* applause.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = applause.wav; sourceTree = "<group>"; };
+		A09A27E4256DA79F007E1080 /* trumpet.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = trumpet.wav; sourceTree = "<group>"; };
 		A0FE9B37256C1C6D0062D59B /* ClickToLive.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ClickToLive.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		A0FE9B3A256C1C6D0062D59B /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		A0FE9B3C256C1C6D0062D59B /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -127,6 +129,7 @@
 				A09A27D6256DA473007E1080 /* timer.wav */,
 				A09A27D9256DA484007E1080 /* bicycleBell.wav */,
 				A09A27DE256DA48C007E1080 /* bomb.wav */,
+				A09A27E4256DA79F007E1080 /* trumpet.wav */,
 				A09A27DA256DA484007E1080 /* gasp.wav */,
 				A09A27E0256DA497007E1080 /* doorbell.wav */,
 				A09A27E2256DA49D007E1080 /* applause.wav */,
@@ -270,6 +273,7 @@
 				A0FE9B47256C1C6E0062D59B /* Assets.xcassets in Resources */,
 				A09A27DF256DA48D007E1080 /* bomb.wav in Resources */,
 				A09A27DD256DA484007E1080 /* gasp.wav in Resources */,
+				A09A27E5256DA79F007E1080 /* trumpet.wav in Resources */,
 				A09A27D7256DA473007E1080 /* timer.wav in Resources */,
 				A0FE9B42256C1C6D0062D59B /* Main.storyboard in Resources */,
 			);
