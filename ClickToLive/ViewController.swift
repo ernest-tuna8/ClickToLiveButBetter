@@ -159,6 +159,8 @@ class ViewController: UIViewController, UINavigationControllerDelegate {
     
     override func viewDidLoad() {
         super.viewDidLoad()
+        print("Colin made this change :)")
+        
         // print("ViewController Did Load")
         self.navigationController?.delegate = self
        
