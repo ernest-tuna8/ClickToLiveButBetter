@@ -159,7 +159,8 @@ class ViewController: UIViewController, UINavigationControllerDelegate {
     
     override func viewDidLoad() {
         super.viewDidLoad()
-        print("Colin made this change :)")
+
+        print("Colin Hehn is creating a branch.")
         
         print("Ryan Atkinson made a change :)")
         // print("ViewController Did Load")
